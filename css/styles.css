@@ -2,9 +2,12 @@
   width: 90vw;
   padding-top: 5vh;
 }
+.card .card-action {
+  border: 0;
+}
 
 span.card-title.big-card {
-    margin: 15% auto;
+    margin: 5% auto;
 }
 @media screen and (max-width: 675px){
   form {
