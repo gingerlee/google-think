@@ -1,3 +1,7 @@
+a.brand-logo {
+    margin-left: 2%;
+}
+
 .think, .with, .google {
   font-size: 24px;
 }
@@ -17,6 +21,11 @@ span.card-title.big-card {
 }
 @media screen and (max-width: 675px){
   form {
+    display: none;
+  }
+}
+@media screen and (max-width: 462px){
+  .think, .with {
     display: none;
   }
 }
