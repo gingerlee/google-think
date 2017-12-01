@@ -3,8 +3,19 @@
   padding-top: 5vh;
 }
 
+span.card-title.big-card {
+    margin: 15% auto;
+}
 @media screen and (max-width: 675px){
   form {
     display: none;
   }
 }
+
+/*@media screen and (min-width: 600px){
+  .row {
+    height: 50vh;
+  }
+
+
+}*/
