@@ -1,9 +1,15 @@
+.think, .with, .google {
+  font-size: 24px;
+}
 .container {
   width: 90vw;
   padding-top: 5vh;
 }
 .card .card-action {
   border: 0;
+}
+.card .card-action a {
+  margin-right: 0;
 }
 
 span.card-title.big-card {
@@ -14,11 +20,3 @@ span.card-title.big-card {
     display: none;
   }
 }
-
-/*@media screen and (min-width: 600px){
-  .row {
-    height: 50vh;
-  }
-
-
-}*/
