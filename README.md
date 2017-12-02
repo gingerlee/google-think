@@ -6,11 +6,11 @@
 
 ## Description
 
-_This is a single page to show responsive design at three breakpoints/screen sizes. It uses the Materialize CSS library to style the page. The page is supposed to mimic the "Latest trends and stories" section from the Google Think website without inspecting their code. _
+_This is a single page to show responsive design at three breakpoints/screen sizes. It uses the Materialize CSS library to style the page. The page is supposed to mimic the "Latest trends and stories" section from the Google Think website without inspecting their code._
 
 ## Setup/Installation Requirements
 
-* _Please copy this link into the browser of your choice. https://gingerlee.github.io/google-think/_ 
+* _Please copy this link into the browser of your choice. https://gingerlee.github.io/google-think/_
 
 ## Support and contact details
 
@@ -18,11 +18,11 @@ _Questions? Contact Ginger at kretschmons@gmail.com_
 
 ## Technologies Used
 
-*HTML
-*CSS
-*Materialize CSS
-*javascript
-jQuery
+* HTML
+* CSS
+* Materialize CSS
+* javascript
+j Query
 
 
 ### License
