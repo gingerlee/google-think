@@ -5,20 +5,31 @@ a.brand-logo {
 .think, .with, .google {
   font-size: 24px;
 }
+
 .container {
   width: 90vw;
   padding-top: 5vh;
 }
+
+.container .card {
+  height: 65vh;
+}
+
+img {
+  max-width: 100%;
+}
+
 .card .card-action {
   border: 0;
 }
-/*.card .card-action a {
-  margin-right: 0;
-  text-transform: capitalize;
-}*/
-
 span.card-title.big-card {
-    margin: 5% auto;
+    margin: 10% auto;
+}
+
+@media screen and (max-width: 462px){
+  .think, .with {
+    display: none;
+  }
 }
 @media screen and (max-width: 675px){
   form {
@@ -26,10 +37,5 @@ span.card-title.big-card {
   }
   .card.horizontal .card-image img {
     min-width: 200px;
-  }
-}
-@media screen and (max-width: 462px){
-  .think, .with {
-    display: none;
   }
 }
