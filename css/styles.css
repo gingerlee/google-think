@@ -11,12 +11,41 @@ a.brand-logo {
   padding-top: 5vh;
 }
 
+.top .bottom {
+  display: inline-block;
+}
+
 .big-card1 {
   background: url(../img/surf.jpg) center no-repeat;
-  background-size: contain;
-  width: 100%;
+  background-size: cover;
   height: 400px;
+  margin-top: 8px;
 }
+
+.big-card2 {
+  background: url(../img/tunnel.jpg) center no-repeat;
+  background-size: cover;
+  height: 400px;
+  margin-top: 8px;
+}
+
+h3 {
+    color: white;
+    margin-top: 312px;
+    font-size: 18px;
+    margin-left: 43px;
+    line-height: 1.4;
+    font-weight: 300;
+}
+
+/*h3.thin {
+    margin-bottom: 50px;
+    margin-left: 43px;
+    line-height: 1.4;
+    font-weight: 300;
+    font-size: 14px;
+    color: white;
+}*/
 
 img {
   max-width: 100%;
